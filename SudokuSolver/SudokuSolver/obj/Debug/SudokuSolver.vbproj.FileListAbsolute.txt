@@ -1,0 +1,9 @@
+c:\users\michael farough\source\repos\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.Resources.resources
+c:\users\michael farough\source\repos\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.vbproj.GenerateResource.cache
+c:\users\michael farough\source\repos\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.vbproj.CoreCompileInputs.cache
+c:\users\michael farough\source\repos\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.dll
+c:\users\michael farough\source\repos\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.pdb
+c:\users\michael farough\source\repos\SudokuSolver\SudokuSolver\bin\Debug\SudokuSolver.xml
+c:\users\michael farough\source\repos\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.dll
+c:\users\michael farough\source\repos\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.xml
+c:\users\michael farough\source\repos\SudokuSolver\SudokuSolver\obj\Debug\SudokuSolver.pdb
